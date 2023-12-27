@@ -1,5 +1,5 @@
 # IQT
-Alternative Learning Paradigms for Image Quality Transfer
+# Alternative Learning Paradigms for Image Quality Transfer
 
 This respiratory provides two implementations for image quality transfer (IQT) using (1) deep dictionary learning (IQT-DDL), and (2) sparse representation using dictionary learning (IQT-SRep).
 
